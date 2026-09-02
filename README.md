@@ -24,9 +24,9 @@
 
 ### 🚀 En qué estoy trabajando
 
-- 🔍 Analizador de datos de ventas (Excel, Power BI y más fuentes)
-- 📷 App de reconocimiento facial en tiempo real
-- 🧠 Explorando proyectos de IA aplicada
+- 🔍 Asistente con RAG
+- 📷 Agente autónomo con memoria
+- 🧠 Sistema multi-agente con MCP
 
 
 <p align="center">
