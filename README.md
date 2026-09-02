@@ -28,22 +28,22 @@
 - 📷 App de reconocimiento facial en tiempo real
 - 🧠 Explorando proyectos de IA aplicada
 
----
-
-### 🐍 Mis contribuciones, jugando Snake
+### 🎮 Un toque de diversión
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jcavalos/jcavalos/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/gauravghongde/gauravghongde/master/space.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
 </p>
 
 ---
-
-### 🌊 Cierre con estilo
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=61DAFB&center=true&vCenter=true&width=500&lines=Gracias+por+pasar+por+aqu%C3%AD+%F0%9F%91%8B;Sigamos+construyendo+cosas+geniales" />
+  <i>"El software del futuro no reemplaza a quien lo construye, lo potencia."</i>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1b2a&height=120&section=footer" width="100%"/>
 
