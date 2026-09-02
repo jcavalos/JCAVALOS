@@ -28,11 +28,6 @@
 - 📷 App de reconocimiento facial en tiempo real
 - 🧠 Explorando proyectos de IA aplicada
 
-### 🎮 Un toque de diversión
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gauravghongde/gauravghongde/master/space.svg" width="100%"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
