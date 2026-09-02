@@ -30,20 +30,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Mis contribuciones, jugando Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcavalos&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcavalos&layout=compact&theme=default" height="165"/>
+  <img src="https://raw.githubusercontent.com/jcavalos/jcavalos/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-### 📫 Contáctame
+### 🌊 Cierre con estilo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-carlos-avalos-alonso-4b86171a7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.carlos.avalos@outlook.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jcavalos&style=flat-square" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=61DAFB&center=true&vCenter=true&width=500&lines=Gracias+por+pasar+por+aqu%C3%AD+%F0%9F%91%8B;Sigamos+construyendo+cosas+geniales" />
 </p>
+
+
