@@ -3,8 +3,7 @@
 <h3 align="center">Full Stack Developer | Python · JavaScript · React</h3>
 
 <p align="center">
-  Desarrollador web full stack apasionado por el software y la tecnología.
-  Vivo entre libros, construyo proyectos propios y me gusta explorar IA y automatización.
+ Autodidacta por naturaleza, siempre buscando cómo automatizar procesos y experimentar con inteligencia artificial en mis proyectos personales.
 </p>
 
 ---
@@ -37,7 +36,7 @@
 ---
 
 <p align="center">
-  <i>"El software del futuro no reemplaza a quien lo construye, lo potencia."</i>
+  <i>"El mejor código no es el que hace más cosas, sino el que le devuelve tiempo a quien lo usa."</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1b2a&height=120&section=footer" width="100%"/>
