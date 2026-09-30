@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- BANNER - terminal profile.sh --live, animado (foto1 -> circulo -> foto2 -> </> -> foto3 -> AI) -->
-<img src="assets/banner-dark.svg" width="100%" alt="profile.sh --live">
+<!-- BANNER - terminal profile.sh --live, animado (foto1 -> circulo -> foto2 -> </> -> foto3 -> AI)
+     GIF en vez de SVG animado: GitHub le quita la animacion a los SVG que subes a tu propio repo. -->
+<img src="assets/banner-dark.gif" width="100%" alt="profile.sh --live">
 
 <br>
 
